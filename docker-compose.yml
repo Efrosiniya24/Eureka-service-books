@@ -4,5 +4,3 @@ services:
       context: .
     ports:
       - "8761:8761"
-    networks:
-      - books-network
